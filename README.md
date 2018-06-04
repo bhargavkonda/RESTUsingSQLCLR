@@ -24,3 +24,5 @@ Next, execute the sql file "RestCallingUsingSQLCLR"
 
 Execute each and every sql query step by step.
 
+
+Credits to:  https://blogs.msdn.microsoft.com/sqllive/2008/06/18/accessing-rest-based-web-services-using-sql-clr/
