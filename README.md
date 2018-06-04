@@ -6,6 +6,8 @@ First, create the .cs file with your functions
 
 
 Generate the .dll file using the below command in the command prompt
+
+
 "csc /t:library D:\StoredProcedures.cs"(remove quotes)
 
 
